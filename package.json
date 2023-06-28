@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "link": "^1.5.1",
+    "react-native": "^0.72.0",
+    "react-native-audio": "^4.3.0",
+    "react-native-colors": "^1.0.1",
+    "react-native-permissions": "^3.8.1"
+  },
+  "devDependencies": {
+    "@types/react-native-audio": "^4.3.4"
+  }
+}
